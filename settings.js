@@ -32,14 +32,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['0112386921'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['0112386921'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['0112386921'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Hub7's TOpPLUG' // Your name ඔබේ නම 
+global.botnma = '🗽 TOpPLUG 𝐁𝐨𝐭' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = 'darkweb7 masters' //ownernama,ownername
+global.packname = '🗽 TOPPLUG Sticker' // Sticker package name 
+global.author = 'Darkweb7' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -51,7 +51,7 @@ Download song type .yt
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
-🌀 Thanks Fro using sl zim bot
+🌀 Thanks Fro using TOPPLUG PIRATES 🕷️ 🗽 🏴‍☠️ bot
 ✾ Some bugs fixing
 😼♥️
 `
@@ -60,21 +60,21 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 HUB7'S TOPPLUG PIRATES 🕷️🗽⛽🗽🌐🏴‍☠️`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
     botAdmin: 'Bot must be admin neh!',
-    owner: 'This cmd is for Elisa bot owner only',
+    owner: 'This cmd is for Hub7's bot owner only',
     group: 'oooh sorry this cmd is for groups only!',
     private: 'goossssh it can only used in dms!',
     bot: 'This cmd  its only for the bot host',
-    wait: 'Wait Elisa bot processing ',
+    wait: 'Wait TOpPLUG bot processing ',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 global.limitawal = {
     premium: "Infinity", 
-    free: 90 
+    free: 90
 }
     global.rpg = {
         darahawal: 100,
